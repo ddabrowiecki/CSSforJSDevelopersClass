@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Add styles here! */
+  strong {
+    color: green;
+  }
+  
+  .header-wrapper {
+    padding-top: 70px;
+    padding-bottom: 30px;
+  }
+  
+  .intro-chunk {
+    padding-right: 50%;
+    padding-left: 12%;
+  }
+  
+  .upper-card-divider {
+    background-color: rgb(118, 140, 145);
+    height: 8px;
+    width: 100%;
+  }
+  .card {
+    background-color: darkslategray;
+    padding: 40px 0px;
+  }
+  
+  .heading-wrapper {
+    width: fit-content;
+    margin-top: 10px;
+    margin-left: -25px;
+  }
+  
+  .indented-heading {
+    background-color: rgb(230, 177, 45);
+    margin-bottom: 0px;
+    padding: 10px;
+  }
+  
+  .indented-heading-footer {
+    background-color: rgb(146, 106, 21);
+    height: 5px;
+    width: 100%;
+  }
+  
+  .internal-card {
+    background-color: white;
+    margin: 0px 100px;
+    padding-top: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+  }
+  
